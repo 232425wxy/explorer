@@ -1,7 +1,7 @@
 package main
 
 import (
-	"chatroom/server"
+	"github.com/232425wxy/explorer/server"
 	"log"
 )
 
